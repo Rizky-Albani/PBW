@@ -1,3 +1,3 @@
 - Nama: Muchamad Rizky Albani
-- Kelas: 04
+- Kelas: 03
 - NIM: 6706213051
